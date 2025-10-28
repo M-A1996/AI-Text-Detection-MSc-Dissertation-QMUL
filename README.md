@@ -101,15 +101,3 @@ AI-Text-Detection-MSc-Dissertation-QMUL/
 * 🤝 Contributed to ongoing discussions on **AI authenticity detection** and **hallucination mitigation**.
 * 📈 Built a **fully reproducible** workflow suitable for future LLM-detection extensions (e.g., GPT-4, Claude, Gemini).
 
----
-
-## 🔗 Links
-
-* 💻 [Jupyter Notebook](notebooks/MSc_Project_Detection_of_Text_Generated_by_ChatGPT_Final.ipynb)
-* 📘 [Full Dissertation (PDF)](report/MSc_Project_Dissertation_Research_Paper_Mohammad_Asghar.pdf)
-* 📊 [Dataset (Hugging Face)](https://huggingface.co/datasets/aadityaubhat/GPT-wiki-intro)
-
----
-
-Would you like me to format this as a ready-to-upload `README.md` file (so you can drag it directly into your repo)?
-
