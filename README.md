@@ -1,6 +1,6 @@
 # 🧠 AI-Text-Detection-MSc-Dissertation-QMUL
 
-**BERT-based AI text detection system** developed as part of my **MSc Data Science & Artificial Intelligence** dissertation at **Queen Mary University of London**.
+**AI text detection systems** developed as part of my **MSc Data Science & Artificial Intelligence** dissertation at **Queen Mary University of London**.
 This research investigates methods to **distinguish ChatGPT-generated content from human-written text** and explores strategies to **reduce hallucinations** and **enhance interpretability** in generative AI systems.
 
 ---
