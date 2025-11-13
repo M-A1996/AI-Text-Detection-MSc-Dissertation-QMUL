@@ -98,6 +98,4 @@ AI-Text-Detection-MSc-Dissertation-QMUL/
 
 * 🎓 Awarded **Distinction** for outstanding performance and research quality.
 * 🧠 Demonstrated **97.5 % accuracy / 1.00 ROC-AUC**, surpassing baseline approaches.
-* 🤝 Contributed to ongoing discussions on **AI authenticity detection** and **hallucination mitigation**.
-* 📈 Built a **fully reproducible** workflow suitable for future LLM-detection extensions (e.g., GPT-4, Claude, Gemini).
 
